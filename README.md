@@ -1,12 +1,8 @@
 # BuddyGPO_EntraIntune
 
 ## Overview
-  ____ ____   ___  ____            _     _       
- / ___|  _ \ / _ \| __ ) _   _  __| | __| |_   _ 
-| |  _| |_) | | | |  _ \| | | |/ _` |/ _` | | | |
-| |_| |  __/| |_| | |_) | |_| | (_| | (_| | |_| |
- \____|_|    \___/|____/ \__,_|\__,_|\__,_|\__, |
-                                           |___/ 
+![image](https://github.com/user-attachments/assets/4c898999-612a-4284-983c-5d4d72133c89)
+
 **BuddyGPO_EntraIntune** is a PowerShell script designed to automate the creation and configuration of Group Policy Objects (GPOs) for Azure Hybrid Join, MDM Auto Enrollment, WinRM, and WinRM Windows Firewall settings in an Active Directory environment. This tool simplifies the process of setting up necessary policies for integrating devices with Microsoft Entra ID (formerly Azure AD) and Intune.
 
 ## Features
